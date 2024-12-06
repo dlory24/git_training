@@ -1,3 +1,3 @@
 library(DBI)
 library(RPostgres)
-library(tidyverse) # for data scientists
+library(tidyverse) # for data science
